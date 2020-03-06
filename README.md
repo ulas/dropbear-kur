@@ -1,2 +1,2 @@
-# dropbear-kur
-Dropbear installer script
+Installation
+Only works on Debian and Ubuntu
