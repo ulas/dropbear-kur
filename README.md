@@ -11,4 +11,4 @@ apt-get -y install curl && curl  https://raw.githubusercontent.com/ulas/dropbear
 * Dropbear portları 109, 110, 443
 
 ## SSH Kullanıcı ekleme:
-adduser kullaniciadi
+### adduser kullaniciadi
