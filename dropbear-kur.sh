@@ -12,7 +12,7 @@ cd /tmp
 echo "Debian ve Ubuntu için Dropbear kurulum betiği"
 echo "================================================="
 echo "" 
-echo "Kurulum başlıyor..."
+echo "Kurulum başlıyor...."
 apt-get update  > /dev/null 2>&1
 echo ""
 echo "Dropbear portları açılıyor"
