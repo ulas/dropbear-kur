@@ -5,9 +5,7 @@ dropbear kurulum betiği
 ## Kurulum:
 ### Ubuntu & Debian
 ```
-wget https://raw.githubusercontent.com/ulas/dropbear-kur/master/dropbear-kur.sh
-chmod +x dropbear-kur.sh
-./dropbear-kur.sh
+apt-get -y install curl && curl  https://raw.githubusercontent.com/ulas/dropbear-kur/master/dropbear-kur.sh -o dropbear-kur.sh && chmod +x dropbear-kur.sh && ./dropbear-kur.sh
 ```
 
 ### Dropbear için açılan portlar
